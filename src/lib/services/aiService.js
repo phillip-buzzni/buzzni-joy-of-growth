@@ -13,7 +13,7 @@ import { leadershipPrinciples } from "../data/leadershipPrinciples.js";
 const AI_CONFIG = {
   provider: "gemini", // 'gemini' | 'openai' | 'claude'
   // model: "gemini-2.0-flash", // 더 여유로운 rate limit
-  model: "gemini-2.5-pro-preview-05-06",
+  model: "gemini-3-flash-preview",
   apiEndpoint: "https://generativelanguage.googleapis.com/v1beta/models",
 };
 
