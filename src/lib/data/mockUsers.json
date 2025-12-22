@@ -1,0 +1,2863 @@
+{
+  "results": [
+    {
+      "id": "100925427819464696032",
+      "nickname": "peter",
+      "nickname_korean": "피터",
+      "real_name": "김성국",
+      "email": "peter@buzzni.com",
+      "phone": "010-9185-8728",
+      "gender": "M",
+      "occupation": "ceo",
+      "occupation_korean": "공동대표",
+      "is_resigned": false,
+      "join_date": "2007-10-23T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/peter/profile-image-normal/2021-05-11/08c5b21240f344428c280325850e8744.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/peter/profile-image/2021-05-11/3ce717ad79444b8aaa5fe88feed76f19.png",
+      "squads": [
+        {
+          "initial": "CXO",
+          "name": "CXO",
+          "korean_name": "경영진",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CXO",
+        "name": "CXO",
+        "korean_name": "경영진",
+        "division": "MEMBER"
+      },
+      "birth_date": "1981-08-25",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 28
+    },
+    {
+      "id": "103598657260934052246",
+      "nickname": "justin",
+      "nickname_korean": "저스틴",
+      "real_name": "남상협",
+      "email": "justin@buzzni.com",
+      "phone": "010-8388-0957",
+      "gender": "M",
+      "occupation": "ceo",
+      "occupation_korean": "공동대표",
+      "is_resigned": false,
+      "join_date": "2007-10-23T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/justin/profile-image-normal/2021-05-11/b38ae09ff1674eccbd16d86ea8c8667f.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/justin/profile-image/2021-05-11/8e7deedfe41149949b90681d749203f9.png",
+      "squads": [
+        {
+          "initial": "SEARCHRECO",
+          "name": "Search Recommendation AI",
+          "korean_name": "검색 추천 AI 스쿼드",
+          "division": "LEADER"
+        },
+        {
+          "initial": "COAICORE",
+          "name": "Commerce AI Core",
+          "korean_name": "커머스 AI 코어 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "LEADER"
+        },
+        {
+          "initial": "CXO",
+          "name": "CXO",
+          "korean_name": "경영진",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "KNOWII",
+          "name": "Knowii",
+          "korean_name": "노이 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CXO",
+        "name": "CXO",
+        "korean_name": "경영진",
+        "division": "MEMBER"
+      },
+      "birth_date": "1982-09-09",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 21
+    },
+    {
+      "id": "100128624058600024149",
+      "nickname": "agatha",
+      "nickname_korean": "아가사",
+      "real_name": "이성하",
+      "email": "agatha@buzzni.com",
+      "phone": "010-7244-1214",
+      "gender": "F",
+      "occupation": "business manager",
+      "occupation_korean": "비즈니스 매니저",
+      "is_resigned": false,
+      "join_date": "2012-07-06T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/agatha/profile-image-normal/2021-05-11/14335a5263b1423e8cfe300561d81d5f.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/agatha/profile-image/2021-05-11/c0482a0c055843599d36317b1404d93c.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "BS",
+          "name": "Business",
+          "korean_name": "비즈니스 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BM",
+        "name": "Business Management",
+        "korean_name": "비즈니스 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1987-05-25",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 11
+    },
+    {
+      "id": "102647445385475218040",
+      "nickname": "wendy",
+      "nickname_korean": "웬디",
+      "real_name": "김윤경",
+      "email": "wendy@buzzni.com",
+      "phone": "010-2704-4859",
+      "gender": "F",
+      "occupation": "general affairs",
+      "occupation_korean": "총무 담당자",
+      "is_resigned": false,
+      "join_date": "2014-08-08T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/wendy/profile-image-normal/2021-05-11/fdf7323a0d7b4a9b9f30d3219264163d.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/wendy/profile-image/2021-05-11/84bc865e2bb94030803e373dc516c449.png",
+      "squads": [
+        {
+          "initial": "MS",
+          "name": "Management Support",
+          "korean_name": "경영 지원",
+          "division": "LEADER"
+        }
+      ],
+      "chapters": {
+        "initial": "MS",
+        "name": "Management Support",
+        "korean_name": "경영 지원",
+        "division": "LEADER"
+      },
+      "birth_date": "1976-06-06",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 8
+    },
+    {
+      "id": "106351194109049769759",
+      "nickname": "david",
+      "nickname_korean": "데이빗",
+      "real_name": "김영민",
+      "email": "david@buzzni.com",
+      "phone": "010-2083-4332",
+      "gender": "M",
+      "occupation": "pr manager",
+      "occupation_korean": "홍보 담당자",
+      "is_resigned": false,
+      "join_date": "2015-03-09T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/david/profile-image-normal/2021-05-11/30501ff201a340fcb0c7a62fc0649cfb.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/david/profile-image/2021-05-11/628562f7c9fa4c76b56302d303b0a324.png",
+      "squads": [
+        {
+          "initial": "MS",
+          "name": "Management Support",
+          "korean_name": "경영 지원",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PR",
+        "name": "Public Relation",
+        "korean_name": "홍보",
+        "division": "LEADER"
+      },
+      "birth_date": "1983-09-10",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 1
+    },
+    {
+      "id": "112898034646352131716",
+      "nickname": "anna",
+      "nickname_korean": "안나",
+      "real_name": "안다혜",
+      "email": "anna@buzzni.com",
+      "phone": "010-3097-9469",
+      "gender": "F",
+      "occupation": "bx designer",
+      "occupation_korean": "BX 디자이너",
+      "is_resigned": false,
+      "join_date": "2015-03-23T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/anna/profile-image-normal/2021-05-11/0bdd9cc8806346b284d325a0aa5e908b.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/anna/profile-image/2021-05-11/b5bdaed2151f4a27822ca1f761d4501c.png",
+      "squads": [
+        {
+          "initial": "MKT",
+          "name": "Marketing",
+          "korean_name": "마케팅 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SF",
+          "name": "Short Form",
+          "korean_name": "숏폼 서비스 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PD",
+        "name": "Product Design",
+        "korean_name": "프로덕트 디자인",
+        "division": "MEMBER"
+      },
+      "birth_date": "1988-04-21",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 4
+    },
+    {
+      "id": "100236209927709200803",
+      "nickname": "jay",
+      "nickname_korean": "제이",
+      "real_name": "진현석",
+      "email": "jay@buzzni.com",
+      "phone": "010-2958-3614",
+      "gender": "M",
+      "occupation": "client engineer",
+      "occupation_korean": "클라이언트 엔지니어",
+      "is_resigned": false,
+      "join_date": "2015-04-20T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jay/profile-image-normal/2021-05-11/57c34a93cbd44a1dbc78af23d5fdea11.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jay/profile-image/2021-05-11/5958e20477fc458a8299b97d1192ed0a.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "CURATION",
+          "name": "Curation",
+          "korean_name": "큐레이션 미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CE",
+        "name": "Client Engineer",
+        "korean_name": "클라이언트 엔지니어",
+        "division": "MEMBER"
+      },
+      "birth_date": "1985-12-12",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 1
+    },
+    {
+      "id": "105340291157400975387",
+      "nickname": "amy",
+      "nickname_korean": "에이미",
+      "real_name": "김다슬",
+      "email": "amy@buzzni.com",
+      "phone": "010-4252-2558",
+      "gender": "F",
+      "occupation": "operation manager",
+      "occupation_korean": "오퍼레이션 매니저",
+      "is_resigned": false,
+      "join_date": "2015-06-29T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/amy/profile-image-normal/2021-05-11/8035d9c30ce440b08073a8c01d8508ed.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/amy/profile-image/2021-05-11/b54e30f38bd549cdb61e947893c23cf7.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "OM",
+        "name": "Operation Management",
+        "korean_name": "오퍼레이션 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1992-10-28",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 20
+    },
+    {
+      "id": "109907519810805504587",
+      "nickname": "tintin",
+      "nickname_korean": "틴틴",
+      "real_name": "윤창호",
+      "email": "tintin@buzzni.com",
+      "phone": "010-4009-7918",
+      "gender": "M",
+      "occupation": "caio",
+      "occupation_korean": "연구총괄",
+      "is_resigned": false,
+      "join_date": "2015-09-21T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tintin/profile-image-normal/2021-05-11/2cfa0dd7f5e84252adf4f1f7bbd44f59.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tintin/profile-image/2021-05-11/f1a867a92af74976b339963f191a0f71.png",
+      "squads": [
+        {
+          "initial": "BUSINESSAI",
+          "name": "Business AI",
+          "korean_name": "비즈니스 AI 스쿼드",
+          "division": "LEADER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "CXO",
+          "name": "CXO",
+          "korean_name": "경영진",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "MS",
+          "name": "Management Support",
+          "korean_name": "경영 지원",
+          "division": "LEADER"
+        },
+        {
+          "initial": "BS",
+          "name": "Business",
+          "korean_name": "비즈니스 스쿼드",
+          "division": "LEADER"
+        }
+      ],
+      "chapters": {
+        "initial": "CXO",
+        "name": "CXO",
+        "korean_name": "경영진",
+        "division": "MEMBER"
+      },
+      "birth_date": "1979-01-08",
+      "work_type": "연구소장",
+      "floor": 14,
+      "seat": 25
+    },
+    {
+      "id": "114713415598826036662",
+      "nickname": "phillip",
+      "nickname_korean": "필립",
+      "real_name": "인용휘",
+      "email": "phillip@buzzni.com",
+      "phone": "010-9076-0878",
+      "gender": "M",
+      "occupation": "product designer",
+      "occupation_korean": "프로덕트 디자이너",
+      "is_resigned": false,
+      "join_date": "2016-01-07T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/phillip/profile-image-normal/2021-05-11/3b4c3856033d409caa774d79945f61da.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/phillip/profile-image/2021-05-11/e3d9f1e6347c4428a75fc3f52805768b.png",
+      "squads": [
+        {
+          "initial": "CURATION",
+          "name": "Curation",
+          "korean_name": "큐레이션 미션팀",
+          "division": "LEADER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PD",
+        "name": "Product Design",
+        "korean_name": "프로덕트 디자인",
+        "division": "LEADER"
+      },
+      "birth_date": "1988-12-10",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 2
+    },
+    {
+      "id": "109239376761667336800",
+      "nickname": "gandalf",
+      "nickname_korean": "간달프",
+      "real_name": "조창래",
+      "email": "gandalf@buzzni.com",
+      "phone": "010-7613-3666",
+      "gender": "M",
+      "occupation": "product manager",
+      "occupation_korean": "프로덕트 매니저",
+      "is_resigned": false,
+      "join_date": "2018-03-12T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/gandalf/profile-image-normal/2021-05-11/553ec46f251f43579cca2e1ecdbe468e.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/gandalf/profile-image/2021-05-11/b8bb92ecf7834e6ea584c5cbdad35565.png",
+      "squads": [
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "LEADER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "LEADER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "LEADER"
+        }
+      ],
+      "chapters": {
+        "initial": "PM",
+        "name": "Product Management",
+        "korean_name": "프로덕트 매니지먼트",
+        "division": "LEADER"
+      },
+      "birth_date": "1990-04-04",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 18
+    },
+    {
+      "id": "112774292394672981209",
+      "nickname": "songdee",
+      "nickname_korean": "송디",
+      "real_name": "송동근",
+      "email": "songdee@buzzni.com",
+      "phone": "010-8647-0763",
+      "gender": "M",
+      "occupation": "data analyst",
+      "occupation_korean": "데이터 애널리스트",
+      "is_resigned": false,
+      "join_date": "2018-05-15T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/songdee/profile-image-normal/2021-05-11/3d7d9590e0684de5be46509ca12571a6.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/songdee/profile-image/2021-05-11/190fe1c4ce94485ba46cb004756c81b4.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "DP",
+          "name": "Data Platform",
+          "korean_name": "데이터 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "DA",
+        "name": "Data Analytics",
+        "korean_name": "데이터 분석",
+        "division": "MEMBER"
+      },
+      "birth_date": "1982-08-28",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 28
+    },
+    {
+      "id": "117166740015018198666",
+      "nickname": "nex",
+      "nickname_korean": "넥스",
+      "real_name": "안슬기",
+      "email": "nex@buzzni.com",
+      "phone": "010-7558-8834",
+      "gender": "M",
+      "occupation": "product manager",
+      "occupation_korean": "프로덕트 매니저",
+      "is_resigned": false,
+      "join_date": "2018-08-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/nex/profile-image-normal/2021-05-11/ba3d271b2777424086747d898cea6f79.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/nex/profile-image/2021-05-11/d63ba987b4c1423390fee5332cd91d2d.png",
+      "squads": [
+        {
+          "initial": "MKT",
+          "name": "Marketing",
+          "korean_name": "마케팅 스쿼드",
+          "division": "LEADER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "FARM",
+          "name": "Retention",
+          "korean_name": "농장 미션팀",
+          "division": "LEADER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PM",
+        "name": "Product Management",
+        "korean_name": "프로덕트 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1985-05-17",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 8
+    },
+    {
+      "id": "114684699230788515528",
+      "nickname": "tigger",
+      "nickname_korean": "티거",
+      "real_name": "김종호",
+      "email": "tigger@buzzni.com",
+      "phone": "010-9124-2855",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2019-01-02T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tigger/profile-image-normal/2021-05-11/aca722a4e02746d7a63500d3ce59c48b.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tigger/profile-image/2025-01-06/a6ef8913c6bb48dfb9934c48289e6320.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AS",
+          "name": "Additional Sale",
+          "korean_name": "추가할인 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1990-04-17",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 19
+    },
+    {
+      "id": "107457554367725754346",
+      "nickname": "charlie",
+      "nickname_korean": "찰리",
+      "real_name": "이은총",
+      "email": "charlie@buzzni.com",
+      "phone": "010-5669-7465",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2019-03-25T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/charlie/profile-image-normal/2021-05-11/74679966caa14e59a96a29f9b847d648.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/charlie/profile-image/2021-05-11/c1ea4df1edf943e1a87c39afb2e90f44.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "LEADER"
+      },
+      "birth_date": "1989-03-01",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 14
+    },
+    {
+      "id": "117419763454154203072",
+      "nickname": "irina",
+      "nickname_korean": "이리나",
+      "real_name": "권의정",
+      "email": "irina@buzzni.com",
+      "phone": "010-3131-2188",
+      "gender": "F",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2019-03-25T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/irina/profile-image-normal/2021-05-11/64ab86b7527b4e1e84eb0e550e285636.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/irina/profile-image/2021-05-11/358d57d6f50e47c28064e4d2f7044458.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "FE",
+        "name": "Front-end Engineering",
+        "korean_name": "프론트엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-02-11",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 7
+    },
+    {
+      "id": "6321709e-159f-485c-96d8-a059f85ca1c9",
+      "nickname": "tony",
+      "nickname_korean": "토니",
+      "real_name": "이태윤",
+      "email": "tony@buzzni.com",
+      "phone": "010-3007-7217",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2019-05-13T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tony/profile-image-normal/2021-05-11/c73105df19fe4d658021abd7be7ef466.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tony/profile-image/2021-05-11/353cd62d58a54ad0825d26ba18d3f491.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COAICORE",
+          "name": "Commerce AI Core",
+          "korean_name": "커머스 AI 코어 스쿼드",
+          "division": "LEADER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CBE",
+        "name": "Commerce Platform Backend Engineering",
+        "korean_name": "커머스플랫폼 백엔드 엔지니어링",
+        "division": "LEADER"
+      },
+      "birth_date": "1989-03-27",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 10
+    },
+    {
+      "id": "73ddf43d-177d-4442-a1d8-42cdd834cfa4",
+      "nickname": "michelle",
+      "nickname_korean": "미쉘",
+      "real_name": "강민지",
+      "email": "michelle@buzzni.com",
+      "phone": "010-7466-5790",
+      "gender": "F",
+      "occupation": "product manager",
+      "occupation_korean": "프로덕트 매니저",
+      "is_resigned": false,
+      "join_date": "2019-08-19T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/michelle/profile-image-normal/2021-05-11/b4a1439cf9f24979b6fd11c14598d664.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/michelle/profile-image/2021-05-11/cea9f2781a484cd49158fb89ce489ef6.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SHOASSISTANT",
+          "name": "Shopping Assistant",
+          "korean_name": "쇼핑 어시스턴트 미션팀",
+          "division": "LEADER"
+        },
+        {
+          "initial": "KNOWII",
+          "name": "Knowii",
+          "korean_name": "노이 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PM",
+        "name": "Product Management",
+        "korean_name": "프로덕트 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1994-07-01",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 13
+    },
+    {
+      "id": "653d947b-6778-445e-ac7b-7d72af6e6a34",
+      "nickname": "dino",
+      "nickname_korean": "디노",
+      "real_name": "이상흠",
+      "email": "dino@buzzni.com",
+      "phone": "010-5160-9590",
+      "gender": "M",
+      "occupation": "qa manager",
+      "occupation_korean": "QA 매니저",
+      "is_resigned": false,
+      "join_date": "2019-10-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/dino/profile-image-normal/2021-05-11/844ddd357e6c460792eea1d667fd8ea0.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/dino/profile-image/2021-05-11/9102935437b64f57b8ce24bc9fa8fb71.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "QA",
+        "name": "Quality Assurance",
+        "korean_name": "QA",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-01-01",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 23
+    },
+    {
+      "id": "7d4ca0f1-9a63-49d3-9b18-f9e166659385",
+      "nickname": "ayaan",
+      "nickname_korean": "이안",
+      "real_name": "성기천",
+      "email": "ayaan@buzzni.com",
+      "phone": "010-4848-8957",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2019-10-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ayaan/profile-image-normal/2021-05-11/30c88a16e5c4463cab0fb7a589292a63.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ayaan/profile-image/2021-05-11/a0a31019bafd4629b1107a0f82897028.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "MKT",
+          "name": "Marketing",
+          "korean_name": "마케팅 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1991-05-01",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 7
+    },
+    {
+      "id": "d6ed389d-0224-4cd1-a606-16bd1ea826e7",
+      "nickname": "sophie",
+      "nickname_korean": "소피",
+      "real_name": "조은별",
+      "email": "sophie@buzzni.com",
+      "phone": "010-3975-1883",
+      "gender": "F",
+      "occupation": "hr manager",
+      "occupation_korean": "인사 담당자",
+      "is_resigned": false,
+      "join_date": "2019-10-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/sophie/profile-image-normal/2021-05-11/92e8a55f3ddc4430a2e8667c944e5fd0.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/sophie/profile-image/2021-05-11/ca25da89c8d94d57835671e9e2b742a0.png",
+      "squads": [
+        {
+          "initial": "MS",
+          "name": "Management Support",
+          "korean_name": "경영 지원",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PP",
+        "name": "People",
+        "korean_name": "피플",
+        "division": "MEMBER"
+      },
+      "birth_date": "1991-01-08",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 10
+    },
+    {
+      "id": "ade51910-1af5-45b2-b742-3a52342bad8c",
+      "nickname": "sean",
+      "nickname_korean": "션",
+      "real_name": "이시형",
+      "email": "sean@buzzni.com",
+      "phone": "010-6271-8947",
+      "gender": "M",
+      "occupation": "product designer",
+      "occupation_korean": "프로덕트 디자이너",
+      "is_resigned": false,
+      "join_date": "2019-12-23T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/sean/profile-image-normal/2021-05-11/cff476f62f4c42a79c28cb6552b28a05.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/sean/profile-image/2021-05-11/31c589223268400eaa13c4eee14c6db5.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SHOASSISTANT",
+          "name": "Shopping Assistant",
+          "korean_name": "쇼핑 어시스턴트 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AISF",
+          "name": "Shortform AI",
+          "korean_name": "숏폼 AI 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PD",
+        "name": "Product Design",
+        "korean_name": "프로덕트 디자인",
+        "division": "MEMBER"
+      },
+      "birth_date": "1991-09-26",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 2
+    },
+    {
+      "id": "10a187b1-68fb-48f3-89c7-a496d4cff216",
+      "nickname": "erica",
+      "nickname_korean": "에리카",
+      "real_name": "장보경",
+      "email": "erica@buzzni.com",
+      "phone": "010-4561-9348",
+      "gender": "F",
+      "occupation": "business manager",
+      "occupation_korean": "비즈니스 매니저",
+      "is_resigned": false,
+      "join_date": "2020-09-14T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/erica/profile-image-normal/2021-05-11/0a854d249aa24b3f9d833ab3aaa7f14e.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/erica/profile-image/2021-05-11/f1615f06264f49238833804cae2b37a1.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "BS",
+          "name": "Business",
+          "korean_name": "비즈니스 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BM",
+        "name": "Business Management",
+        "korean_name": "비즈니스 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-04-08",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 12
+    },
+    {
+      "id": "b3f2bcc5-9aeb-4aa8-be98-ea6b686545f4",
+      "nickname": "jun",
+      "nickname_korean": "준",
+      "real_name": "김준형",
+      "email": "jun@buzzni.com",
+      "phone": "010-4645-1218",
+      "gender": "M",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2020-11-03T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jun/profile-image-normal/2021-05-11/c8db148b71f8401ebda9cbf652c455b0.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jun/profile-image/2021-05-11/e0ee2e6256924bb7adb97c1267b444c1.png",
+      "squads": [
+        {
+          "initial": "WEB",
+          "name": "Web",
+          "korean_name": "웹미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "FE",
+        "name": "Front-end Engineering",
+        "korean_name": "프론트엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1987-02-02",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 25
+    },
+    {
+      "id": "501c474b-1f6a-4fcb-91b1-a72a41d089a0",
+      "nickname": "agnes",
+      "nickname_korean": "아녜스",
+      "real_name": "윤소미",
+      "email": "agnes@buzzni.com",
+      "phone": "010-3239-4200",
+      "gender": "F",
+      "occupation": "product designer",
+      "occupation_korean": "프로덕트 디자이너",
+      "is_resigned": false,
+      "join_date": "2021-02-08T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/agnes/profile-image-normal/2021-05-11/a0eaa39d8e45448c9bf57f80a6e543c1.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/agnes/profile-image/2021-05-11/6fb68b7462754bf1abd94096d6798622.png",
+      "squads": [
+        {
+          "initial": "AS",
+          "name": "Additional Sale",
+          "korean_name": "추가할인 미션팀",
+          "division": "LEADER"
+        },
+        {
+          "initial": "WEB",
+          "name": "Web",
+          "korean_name": "웹미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PD",
+        "name": "Product Design",
+        "korean_name": "프로덕트 디자인",
+        "division": "LEADER"
+      },
+      "birth_date": "1987-04-20",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 16
+    },
+    {
+      "id": "a9b05343-100c-42b7-82e9-8fd398fa18a5",
+      "nickname": "mooburg",
+      "nickname_korean": "무벅",
+      "real_name": "박정무",
+      "email": "mooburg@buzzni.com",
+      "phone": "010-3806-7021",
+      "gender": "M",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2021-04-05T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/mooburg/profile-image-normal/2025-10-28/ffbba525a31243aea7615ab8ef7d7cf1.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/mooburg/profile-image/2021-05-11/14aab88a90c44c8b87243697ee475c72.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "CURATION",
+          "name": "Curation",
+          "korean_name": "큐레이션 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "WEB",
+          "name": "Web",
+          "korean_name": "웹미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "FE",
+        "name": "Front-end Engineering",
+        "korean_name": "프론트엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1983-06-19",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 24
+    },
+    {
+      "id": "2fc45c49-ae0f-4aad-b1df-69660319097f",
+      "nickname": "hani",
+      "nickname_korean": "하니",
+      "real_name": "임혜진",
+      "email": "hani@buzzni.com",
+      "phone": "010-9379-2984",
+      "gender": "F",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2021-05-17T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hani/profile-image-normal/2021-05-17/875fafadbb6246e9a15f99c1c0df811c.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hani/profile-image/2021-05-17/b60c0e6e646d4c51bbdcb83b278ff257.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "FE",
+        "name": "Front-end Engineering",
+        "korean_name": "프론트엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-11-19",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 22
+    },
+    {
+      "id": "952e91b9-fbe4-454e-9776-f8746c6bb853",
+      "nickname": "joseph",
+      "nickname_korean": "조셉",
+      "real_name": "김태성",
+      "email": "joseph@buzzni.com",
+      "phone": "010-9476-0950",
+      "gender": "M",
+      "occupation": "data engineer",
+      "occupation_korean": "데이터 엔지니어",
+      "is_resigned": false,
+      "join_date": "2021-06-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/joseph/profile-image-normal/2021-06-08/e8570b3af1844341af772e16e64e6061.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/joseph/profile-image/2021-06-08/ce847819438c4332858bd0a1e246be93.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "DP",
+          "name": "Data Platform",
+          "korean_name": "데이터 플랫폼 스쿼드",
+          "division": "LEADER"
+        }
+      ],
+      "chapters": {
+        "initial": "DE",
+        "name": "Data Engineering",
+        "korean_name": "데이터 엔지니어링",
+        "division": "LEADER"
+      },
+      "birth_date": "1983-09-05",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 27
+    },
+    {
+      "id": "d76d996f-b6ce-4945-aa5e-4e7963d6f88d",
+      "nickname": "rozy",
+      "nickname_korean": "로지",
+      "real_name": "강선경",
+      "email": "rozy@buzzni.com",
+      "phone": "010-8311-0633",
+      "gender": "F",
+      "occupation": "category expert",
+      "occupation_korean": "CE",
+      "is_resigned": false,
+      "join_date": "2021-08-23T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/rozy/profile-image-normal/2021-09-07/cdc51671875e4175baba076de23a9830.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/rozy/profile-image/2021-09-07/0a6ce51db0514c2c92684fc524cc6104.png",
+      "squads": [
+        {
+          "initial": "BS",
+          "name": "Business",
+          "korean_name": "비즈니스 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "CURATION",
+          "name": "Curation",
+          "korean_name": "큐레이션 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "MD",
+        "name": "Merchandiser",
+        "korean_name": "MD",
+        "division": "MEMBER"
+      },
+      "birth_date": "1988-06-30",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 15
+    },
+    {
+      "id": "595e3db5-6e50-49b5-ba06-d42c388a59a6",
+      "nickname": "ccoli",
+      "nickname_korean": "콜리",
+      "real_name": "최용범",
+      "email": "ccoli@buzzni.com",
+      "phone": "010-2978-4175",
+      "gender": "M",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2021-09-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ccoli/profile-image-normal/2021-09-01/f0ae4fb1a43942f787520fe6c332e649.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ccoli/profile-image/2021-09-01/ac97a334a78f49179c2f9757bc81f8b3.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SF",
+          "name": "Short Form",
+          "korean_name": "숏폼 서비스 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AS",
+          "name": "Additional Sale",
+          "korean_name": "추가할인 미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CE",
+        "name": "Client Engineer",
+        "korean_name": "클라이언트 엔지니어",
+        "division": "MEMBER"
+      },
+      "birth_date": "1987-11-17",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 21
+    },
+    {
+      "id": "d241a5d8-c0bf-4df1-bb8d-dc5e6ec80ec4",
+      "nickname": "mickey",
+      "nickname_korean": "미키",
+      "real_name": "김민수",
+      "email": "mickey@buzzni.com",
+      "phone": "010-7476-0219",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2021-10-18T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/micky/profile-image-normal/2021-10-18/260565d8aa484a5087563c207f167374.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/micky/profile-image/2021-10-18/44a32800c1fa4207a87fe7a067acfdca.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SEARCHRECO",
+          "name": "Search Recommendation AI",
+          "korean_name": "검색 추천 AI 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CBE",
+        "name": "Commerce Platform Backend Engineering",
+        "korean_name": "커머스플랫폼 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1990-02-19",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 22
+    },
+    {
+      "id": "e1a465d5-c27a-42b6-802a-6aaa4f7dd267",
+      "nickname": "loui",
+      "nickname_korean": "루이",
+      "real_name": "김병진",
+      "email": "loui@buzzni.com",
+      "phone": "010-6328-0391",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2021-12-02T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/loui/profile-image-normal/2021-12-20/833ea5814eb94a3c9d5c18299af2a35c.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/loui/profile-image/2021-12-20/bf714040555e4313ad042aaf2d010c1d.png",
+      "squads": [
+        {
+          "initial": "SF",
+          "name": "Short Form",
+          "korean_name": "숏폼 서비스 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CBE",
+        "name": "Commerce Platform Backend Engineering",
+        "korean_name": "커머스플랫폼 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1994-08-04",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 11
+    },
+    {
+      "id": "70481963-74fb-4f17-8caa-05cec24714bc",
+      "nickname": "james",
+      "nickname_korean": "제임스",
+      "real_name": "한재무",
+      "email": "james@buzzni.com",
+      "phone": "010-3721-4670",
+      "gender": "M",
+      "occupation": "data engineer",
+      "occupation_korean": "데이터 엔지니어",
+      "is_resigned": false,
+      "join_date": "2021-12-06T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/james/profile-image-normal/2021-12-20/d3b0db3652b1424da09fe96cedd33261.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/james/profile-image/2021-12-20/3abbe11714c34100b630485d83c43464.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "DP",
+          "name": "Data Platform",
+          "korean_name": "데이터 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "DE",
+        "name": "Data Engineering",
+        "korean_name": "데이터 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1989-10-28",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 26
+    },
+    {
+      "id": "b5b45ce6-4679-4870-b7d5-a5e20ad1879d",
+      "nickname": "oskar",
+      "nickname_korean": "오스카",
+      "real_name": "김용문",
+      "email": "oskar@buzzni.com",
+      "phone": "010-5147-1984",
+      "gender": "M",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2022-01-09T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/oskar/profile-image-normal/2025-10-27/5c8224e8911849debba601bf788175a8.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/oskar/profile-image/2025-10-27/897c6be335ba47789638d21336803ab3.png",
+      "squads": [
+        {
+          "initial": "KNOWII",
+          "name": "Knowii",
+          "korean_name": "노이 스쿼드",
+          "division": "LEADER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CE",
+        "name": "Client Engineer",
+        "korean_name": "클라이언트 엔지니어",
+        "division": "MEMBER"
+      },
+      "birth_date": "1981-03-15",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 20
+    },
+    {
+      "id": "28fd2daa-e9ef-44c3-84fa-ce00f52fdf90",
+      "nickname": "lua",
+      "nickname_korean": "루아",
+      "real_name": "김다영",
+      "email": "lua@buzzni.com",
+      "phone": "010-2573-1776",
+      "gender": "F",
+      "occupation": "account manager",
+      "occupation_korean": "회계 담당자",
+      "is_resigned": false,
+      "join_date": "2022-01-24T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/lua/profile-image-normal/2022-01-24/576208e9557c4ffcb571f1029c9a7c36.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/lua/profile-image/2022-01-24/e4214b1f56ee4b92b9d4c2d655d80e50.png",
+      "squads": [
+        {
+          "initial": "MS",
+          "name": "Management Support",
+          "korean_name": "경영 지원",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "MS",
+        "name": "Management Support",
+        "korean_name": "경영 지원",
+        "division": "MEMBER"
+      },
+      "birth_date": "1991-02-02",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 11
+    },
+    {
+      "id": "07819a15-1680-4f07-95ab-b4119c3a6004",
+      "nickname": "jayden",
+      "nickname_korean": "제이든",
+      "real_name": "박정호",
+      "email": "jayden@buzzni.com",
+      "phone": "010-6346-4904",
+      "gender": "M",
+      "occupation": "general affairs",
+      "occupation_korean": "총무 담당자",
+      "is_resigned": false,
+      "join_date": "2022-03-14T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jayden/profile-image-normal/2022-03-17/fc3943ac4f564750b83dc1bd39b935f5.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jayden/profile-image/2022-03-17/66a9f82685a74e33ba311525d3e1dca8.png",
+      "squads": [
+        {
+          "initial": "MS",
+          "name": "Management Support",
+          "korean_name": "경영 지원",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "MS",
+        "name": "Management Support",
+        "korean_name": "경영 지원",
+        "division": "MEMBER"
+      },
+      "birth_date": "1990-01-31",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 2
+    },
+    {
+      "id": "3fbbf85d-b9f2-4013-97eb-3a3b329fb762",
+      "nickname": "ryan",
+      "nickname_korean": "라이언",
+      "real_name": "강혜준",
+      "email": "ryan@buzzni.com",
+      "phone": "010-7766-9354",
+      "gender": "M",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2022-04-04T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ryan/profile-image-normal/2022-04-20/dd55cc847af64e8dbff32cbf8b817a35.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ryan/profile-image/2022-04-20/a672b84f940748e9b941eb5975a4ebc2.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "KNOWII",
+          "name": "Knowii",
+          "korean_name": "노이 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "FE",
+        "name": "Front-end Engineering",
+        "korean_name": "프론트엔드 엔지니어링",
+        "division": "LEADER"
+      },
+      "birth_date": "1988-12-02",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 19
+    },
+    {
+      "id": "a8d3b34d-0deb-4b11-92d9-dc23b9be5afc",
+      "nickname": "leah",
+      "nickname_korean": "레아",
+      "real_name": "이윤우",
+      "email": "leah@buzzni.com",
+      "phone": "010-7445-5420",
+      "gender": "F",
+      "occupation": "seller developer",
+      "occupation_korean": "SD",
+      "is_resigned": false,
+      "join_date": "2022-05-02T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/leah/profile-image-normal/2022-05-03/a4c9ae7169004500babfddd2ffd74b7d.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/leah/profile-image/2022-05-03/f84c6b4ae3fe4794a82e9fd9cc2c1872.png",
+      "squads": [
+        {
+          "initial": "FARM",
+          "name": "Retention",
+          "korean_name": "농장 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "CURATION",
+          "name": "Curation",
+          "korean_name": "큐레이션 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "MD",
+        "name": "Merchandiser",
+        "korean_name": "MD",
+        "division": "MEMBER"
+      },
+      "birth_date": "1995-08-25",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 10
+    },
+    {
+      "id": "662080a9-3b11-477d-a7f4-fdf11db7755b",
+      "nickname": "william",
+      "nickname_korean": "윌리엄",
+      "real_name": "이재영",
+      "email": "william@buzzni.com",
+      "phone": "010-7730-4008",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2022-06-20T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/william/profile-image-normal/2022-06-27/c864e004cfba404796d9e5716120d4c1.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/william/profile-image/2022-06-27/2dbc44db40fb4c67814171e293233077.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "FARM",
+          "name": "Retention",
+          "korean_name": "농장 미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1994-12-04",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 19
+    },
+    {
+      "id": "1bbba103-1185-493a-8a45-5d8243a4fe31",
+      "nickname": "raven",
+      "nickname_korean": "레이븐",
+      "real_name": "임덕규",
+      "email": "raven@buzzni.com",
+      "phone": "010-9508-0875",
+      "gender": "M",
+      "occupation": "data engineer",
+      "occupation_korean": "데이터 엔지니어",
+      "is_resigned": false,
+      "join_date": "2022-06-27T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/raven/profile-image-normal/2022-06-27/fb49e36c19564f49a1987fcdbc009bf7.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/raven/profile-image/2022-06-27/6d1f766b0890466fba1d09ecfdac57fc.png",
+      "squads": [
+        {
+          "initial": "DP",
+          "name": "Data Platform",
+          "korean_name": "데이터 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "DE",
+        "name": "Data Engineering",
+        "korean_name": "데이터 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1983-02-07",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 28
+    },
+    {
+      "id": "c8bd549a-1efd-4d73-9143-940dfb5cb7e7",
+      "nickname": "joy",
+      "nickname_korean": "조이",
+      "real_name": "최지윤",
+      "email": "joy@buzzni.com",
+      "phone": "010-5100-0423",
+      "gender": "F",
+      "occupation": "business manager",
+      "occupation_korean": "비즈니스 매니저",
+      "is_resigned": false,
+      "join_date": "2022-06-27T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/joy/profile-image-normal/2022-06-27/76cfe25cb1b6416d9efe3f1c4ee0e62a.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/joy/profile-image/2022-06-27/9a0421eed4bf4747a0655f24b3f70d92.png",
+      "squads": [
+        {
+          "initial": "CURATION",
+          "name": "Curation",
+          "korean_name": "큐레이션 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "BS",
+          "name": "Business",
+          "korean_name": "비즈니스 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BM",
+        "name": "Business Management",
+        "korean_name": "비즈니스 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1995-04-23",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 13
+    },
+    {
+      "id": "fc22fb79-29b7-4dba-9d68-b5c2ae96a79d",
+      "nickname": "hugo",
+      "nickname_korean": "휴고",
+      "real_name": "박종혁",
+      "email": "hugo@buzzni.com",
+      "phone": "010-7604-2113",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2022-07-04T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hugo/profile-image-normal/2022-07-11/970a022ed1024a829fa793d747f1eb3d.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hugo/profile-image/2022-07-11/fc67700452e24f76add7d2a1ca019545.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SEARCHRECO",
+          "name": "Search Recommendation AI",
+          "korean_name": "검색 추천 AI 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1996-06-20",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 20
+    },
+    {
+      "id": "9ad8b49d-620b-4a91-a0d8-fe897a30dcf9",
+      "nickname": "brom",
+      "nickname_korean": "브롬",
+      "real_name": "김병수",
+      "email": "brom@buzzni.com",
+      "phone": "010-5691-2604",
+      "gender": "M",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2022-07-11T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/brom/profile-image-normal/2022-07-11/56ae769b9484481095b9c388a5b0cc74.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/brom/profile-image/2022-07-11/f95cc3c4cded48659bb9245053f4ff04.png",
+      "squads": [
+        {
+          "initial": "FARM",
+          "name": "Retention",
+          "korean_name": "농장 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "CE",
+        "name": "Client Engineer",
+        "korean_name": "클라이언트 엔지니어",
+        "division": "MEMBER"
+      },
+      "birth_date": "1991-01-04",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 21
+    },
+    {
+      "id": "0cd21941-65ac-47aa-8907-8dc795fc621b",
+      "nickname": "olaf",
+      "nickname_korean": "올라프",
+      "real_name": "장영찬",
+      "email": "olaf@buzzni.com",
+      "phone": "010-5120-8125",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2022-08-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/olaf/profile-image-normal/2022-08-12/37bcddb332cb48d6a71272aebcd185e0.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/olaf/profile-image/2022-08-12/f2521f783a9b421e975831ee573aaf6f.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1992-02-22",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 12
+    },
+    {
+      "id": "0fb58b4b-1bef-41c6-b23d-17bac69b0509",
+      "nickname": "hale",
+      "nickname_korean": "헤일",
+      "real_name": "손지영",
+      "email": "hale@buzzni.com",
+      "phone": "010-5154-9064",
+      "gender": "F",
+      "occupation": "product designer",
+      "occupation_korean": "프로덕트 디자이너",
+      "is_resigned": false,
+      "join_date": "2022-09-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hale/profile-image-normal/2022-10-11/d6f6a9aedc5d4eae994900fcc7f0067c.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hale/profile-image/2022-10-11/edfa51988c5c466aad2d988517d785e2.png",
+      "squads": [
+        {
+          "initial": "FARM",
+          "name": "Retention",
+          "korean_name": "농장 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PD",
+        "name": "Product Design",
+        "korean_name": "프로덕트 디자인",
+        "division": "MEMBER"
+      },
+      "birth_date": "1989-01-09",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 26
+    },
+    {
+      "id": "0f5c24a6-8c82-46be-8392-51bfef53dcf9",
+      "nickname": "keyog",
+      "nickname_korean": "키요",
+      "real_name": "정근영",
+      "email": "keyog@buzzni.com",
+      "phone": "010-2961-2568",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2023-07-17T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/keyog/profile-image-normal/2023-07-17/361574e3f5884fd0994e6b8aea598cae.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/keyog/profile-image/2023-07-17/293f7d10eb894f9886aab24eb96d62d8.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AISF",
+          "name": "Shortform AI",
+          "korean_name": "숏폼 AI 스쿼드",
+          "division": "LEADER"
+        }
+      ],
+      "chapters": {
+        "initial": "BE",
+        "name": "Back-end Engineering",
+        "korean_name": "백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1994-03-30",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 9
+    },
+    {
+      "id": "6e1f1454-6893-4846-b156-0c479a41cc00",
+      "nickname": "junnie",
+      "nickname_korean": "주니",
+      "real_name": "안준연",
+      "email": "junnie@buzzni.com",
+      "phone": "010-4526-0540",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2023-09-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/junnie/profile-image-normal/2023-09-12/26d2d98cf0664427ac12032181070d1e.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/junnie/profile-image/2023-09-12/6966bf43a2c24489a9c364580e7779f9.png",
+      "squads": [
+        {
+          "initial": "CURATION",
+          "name": "Curation",
+          "korean_name": "큐레이션 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1996-06-20",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 3
+    },
+    {
+      "id": "d905dd2c-922e-48fd-a0e2-4a4e96e50f1f",
+      "nickname": "Theo",
+      "nickname_korean": "테오",
+      "real_name": "김형태",
+      "email": "theo@buzzni.com",
+      "phone": "010-3952-0238",
+      "gender": "M",
+      "occupation": "product manager",
+      "occupation_korean": "프로덕트 매니저",
+      "is_resigned": false,
+      "join_date": "2023-10-05T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/Theo/profile-image-normal/2023-10-25/4ac8fa3f750e439681459ba6a06cb64c.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/Theo/profile-image/2023-10-25/263b766e5f5447478b8b1d3ccaf322f7.png",
+      "squads": [
+        {
+          "initial": "COMMERCE",
+          "name": "Commerce",
+          "korean_name": "커머스 스쿼드",
+          "division": "LEADER_AGENCIES"
+        },
+        {
+          "initial": "WEB",
+          "name": "Web",
+          "korean_name": "웹미션팀",
+          "division": "LEADER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PM",
+        "name": "Product Management",
+        "korean_name": "프로덕트 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1988-02-27",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 4
+    },
+    {
+      "id": "e0421bd0-7053-4826-a8b3-679380193e51",
+      "nickname": "samuel",
+      "nickname_korean": "사무엘",
+      "real_name": "남정민",
+      "email": "samuel@buzzni.com",
+      "phone": "010-4811-2584",
+      "gender": "M",
+      "occupation": "ad manager",
+      "occupation_korean": "광고 매니저",
+      "is_resigned": false,
+      "join_date": "2024-03-18T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/samuel/profile-image-normal/2024-03-27/f1d0659c884d482c874ce41e64577c55.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/samuel/profile-image/2024-03-27/553b84b4b6d744058da84d58cfdf6919.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BM",
+        "name": "Business Management",
+        "korean_name": "비즈니스 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-09-23",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 17
+    },
+    {
+      "id": "e3e22589-9d75-41a4-af3b-70f3fe0ef69c",
+      "nickname": "jack",
+      "nickname_korean": "잭",
+      "real_name": "이재혁",
+      "email": "jack@buzzni.com",
+      "phone": "010-6203-0223",
+      "gender": "M",
+      "occupation": "front-end engineer",
+      "occupation_korean": "프론트엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2024-04-15T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jack/profile-image-normal/2024-04-16/365ae37c3935467b8693a1ac93a128d1.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/jack/profile-image/2024-04-16/7de71120b65442c2a3e88bda66faad02.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AISF",
+          "name": "Shortform AI",
+          "korean_name": "숏폼 AI 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "FE",
+        "name": "Front-end Engineering",
+        "korean_name": "프론트엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "2024-04-09",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 8
+    },
+    {
+      "id": "6202ee73-f05f-41a0-8ccd-6252f2704087",
+      "nickname": "raina",
+      "nickname_korean": "레이나",
+      "real_name": "김륜형",
+      "email": "raina@buzzni.com",
+      "phone": "010-5108-2452",
+      "gender": "F",
+      "occupation": "ad manager",
+      "occupation_korean": "광고 매니저",
+      "is_resigned": false,
+      "join_date": "2024-05-02T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/raina/profile-image-normal/2024-05-07/167b1555a47544fdbdcd1b137127e277.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/raina/profile-image/2024-05-07/e1a6ded7d2a942698fa3fde043aea361.png",
+      "squads": [
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BM",
+        "name": "Business Management",
+        "korean_name": "비즈니스 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-02-05",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 16
+    },
+    {
+      "id": "8545c2f5-3b6a-4edf-88cc-9a1d44359fa2",
+      "nickname": "astin",
+      "nickname_korean": "애스틴",
+      "real_name": "명성은",
+      "email": "astin@buzzni.com",
+      "phone": "010-7124-9469",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2024-05-20T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/astin/profile-image-normal/2024-05-23/11ab06ffb64d48a48dfa98ef9c824f76.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/astin/profile-image/2024-05-23/b6c79bce3a644a14bc7879647717620f.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "KNOWII",
+          "name": "Knowii",
+          "korean_name": "노이 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SHOASSISTANT",
+          "name": "Shopping Assistant",
+          "korean_name": "쇼핑 어시스턴트 미션팀",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BE",
+        "name": "Back-end Engineering",
+        "korean_name": "백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1988-09-26",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 5
+    },
+    {
+      "id": "41278405-55d1-4684-89ce-dcab60786c56",
+      "nickname": "claire",
+      "nickname_korean": "클레어",
+      "real_name": "김민수",
+      "email": "claire@buzzni.com",
+      "phone": "010-8821-2713",
+      "gender": "F",
+      "occupation": "product manager",
+      "occupation_korean": "프로덕트 매니저",
+      "is_resigned": false,
+      "join_date": "2024-05-27T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/claire/profile-image-normal/2024-05-28/d105316f7fab4562886533675aa984b6.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/claire/profile-image/2024-05-28/945748e4b63f41c6bd217aca46823abc.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SEARCHRECO",
+          "name": "Search Recommendation AI",
+          "korean_name": "검색 추천 AI 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PM",
+        "name": "Product Management",
+        "korean_name": "프로덕트 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-11-09",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 16
+    },
+    {
+      "id": "50a049fc-1f7c-4b3a-8b20-d2daf47abb0c",
+      "nickname": "bell",
+      "nickname_korean": "벨",
+      "real_name": "조용현",
+      "email": "bell@buzzni.com",
+      "phone": "010-2787-5355",
+      "gender": "M",
+      "occupation": "site reliability engineer",
+      "occupation_korean": "사이트 신뢰성 엔지니어",
+      "is_resigned": false,
+      "join_date": "2024-07-29T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/bell/profile-image-normal/2024-08-02/dc8e5ae6125443c5ae7ece080fd1f3fe.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/bell/profile-image/2024-08-02/889a9e3772124a7389f4b597c156fa04.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BE",
+        "name": "Back-end Engineering",
+        "korean_name": "백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1997-11-18",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 18
+    },
+    {
+      "id": "c1fbeb93-52ec-4bfc-b390-fbfb341986c5",
+      "nickname": "andy",
+      "nickname_korean": "앤디",
+      "real_name": "박희정",
+      "email": "andy@buzzni.com",
+      "phone": "010-5656-6496",
+      "gender": "F",
+      "occupation": "performance marketer",
+      "occupation_korean": "퍼포먼스 마케터",
+      "is_resigned": false,
+      "join_date": "2024-07-29T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/andy/profile-image-normal/2024-08-02/e6e6c466317d46bd95e75f160aa2ae4f.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/andy/profile-image/2024-08-02/88e27a8113fc4b1f95e344194fb6624a.png",
+      "squads": [
+        {
+          "initial": "MKT",
+          "name": "Marketing",
+          "korean_name": "마케팅 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "MKT",
+        "name": "Marketing",
+        "korean_name": "마케팅",
+        "division": "MEMBER"
+      },
+      "birth_date": "1991-11-19",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 9
+    },
+    {
+      "id": "745d630d-8b0a-470b-87b1-a101f347a4eb",
+      "nickname": "ava",
+      "nickname_korean": "에이바",
+      "real_name": "임재원",
+      "email": "ava@buzzni.com",
+      "phone": "010-5504-4556",
+      "gender": "F",
+      "occupation": "account manager",
+      "occupation_korean": "회계 담당자",
+      "is_resigned": false,
+      "join_date": "2024-08-19T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ava/profile-image-normal/2024-08-27/59f7fd66c5114c5685828509ef81d8f1.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ava/profile-image/2024-08-27/716c80b343ae439a8f3a28d801bf3eb8.png",
+      "squads": [
+        {
+          "initial": "MS",
+          "name": "Management Support",
+          "korean_name": "경영 지원",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "MS",
+        "name": "Management Support",
+        "korean_name": "경영 지원",
+        "division": "MEMBER"
+      },
+      "birth_date": "1993-02-22",
+      "work_type": "계약",
+      "floor": 12,
+      "seat": 9
+    },
+    {
+      "id": "d9cb2dc0-6970-43f1-8ecb-7fc841439e46",
+      "nickname": "sydney",
+      "nickname_korean": "시드니",
+      "real_name": "김한나",
+      "email": "sydney@buzzni.com",
+      "phone": "010-4130-1530",
+      "gender": "F",
+      "occupation": "product designer",
+      "occupation_korean": "프로덕트 디자이너",
+      "is_resigned": false,
+      "join_date": "2024-09-02T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/Sydney/profile-image-normal/2024-09-02/c52bfee7249245429200266de19a1f3d.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/Sydney/profile-image/2024-09-02/b044aff967cf40b9bbf8362756a10ca3.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AD",
+          "name": "Advertisement",
+          "korean_name": "광고 미션팀",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PD",
+        "name": "Product Design",
+        "korean_name": "프로덕트 디자인",
+        "division": "MEMBER"
+      },
+      "birth_date": "1995-02-21",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 29
+    },
+    {
+      "id": "78c6f481-c6cb-4e9b-b1f8-badcaa0d7854",
+      "nickname": "hope",
+      "nickname_korean": "홉",
+      "real_name": "김희원",
+      "email": "hope@buzzni.com",
+      "phone": "010-4707-2091",
+      "gender": "M",
+      "occupation": "video production designer",
+      "occupation_korean": "영상PD",
+      "is_resigned": false,
+      "join_date": "2024-11-18T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hope/profile-image-normal/2024-11-28/ef0e0c9f79a54318b28388d0ba2571af.png",
+      "image_small": "https://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/hope/profile-image/2024-11-28/a5da7ed762b94d04ae24cf61c0e800ac.png",
+      "squads": [
+        {
+          "initial": "MKT",
+          "name": "Marketing",
+          "korean_name": "마케팅 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "VPD",
+        "name": "video production designer",
+        "korean_name": "영상 PD",
+        "division": "MEMBER"
+      },
+      "birth_date": "1995-05-28",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 5
+    },
+    {
+      "id": "f7fd4c55-e5dc-4163-a53f-2cbee848cdd3",
+      "nickname": "dave",
+      "nickname_korean": "데이브",
+      "real_name": "정동욱",
+      "email": "dave@buzzni.com",
+      "phone": "010-2558-6186",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2024-12-02T00:00:00",
+      "image_normal": "https://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/Dave/profile-image-normal/2024-12-16/c958f0cfec744b33bcc6eb264497fb38.png",
+      "image_small": "http://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/Dave/profile-image/2024-12-16/a0d56f18b07249bd9f8a17fdb7847271.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SBE",
+        "name": "Service Backend Engineering",
+        "korean_name": "서비스 백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1994-03-20",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 22
+    },
+    {
+      "id": "ed089b90-f619-485f-9b52-4fe78d0d9c97",
+      "nickname": "wilson",
+      "nickname_korean": "윌슨",
+      "real_name": "엄서훈",
+      "email": "wilson@buzzni.com",
+      "phone": "010-6219-0152",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2024-12-16T00:00:00",
+      "image_normal": "https://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/wilson/profile-image-normal/2025-01-02/f0a738fbeffc449faea8eccdf91d8c4b.png",
+      "image_small": "https://thum.buzzni.com/unsafe/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/wilson/profile-image/2025-01-02/1181be4483874f73be92250f39897e44.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "SEARCHRECO",
+          "name": "Search Recommendation AI",
+          "korean_name": "검색 추천 AI 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BE",
+        "name": "Back-end Engineering",
+        "korean_name": "백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "2003-06-30",
+      "work_type": "계약",
+      "floor": 14,
+      "seat": 18
+    },
+    {
+      "id": "949f19e6-28f6-401f-9e7d-d657bfe78b1c",
+      "nickname": "mino",
+      "nickname_korean": "미노",
+      "real_name": "신재민",
+      "email": "mino@buzzni.com",
+      "phone": "010-6523-5770",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2025-03-24T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/mino/profile-image-normal/2025-04-03/dde4575a3862492fb3ed765671cafe87.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/mino/profile-image/2025-04-03/6265b4b9abf64727a8c234b1979c5c22.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "COAICORE",
+          "name": "Commerce AI Core",
+          "korean_name": "커머스 AI 코어 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BE",
+        "name": "Back-end Engineering",
+        "korean_name": "백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1997-06-28",
+      "work_type": "전문연구요원",
+      "floor": 14,
+      "seat": 12
+    },
+    {
+      "id": "a74104f3-ab9d-4d1e-869c-adf172f7ece1",
+      "nickname": "ernie",
+      "nickname_korean": "어니",
+      "real_name": "양은혁",
+      "email": "ernie@buzzni.com",
+      "phone": "010-9168-6357",
+      "gender": "M",
+      "occupation": "product manager",
+      "occupation_korean": "프로덕트 매니저",
+      "is_resigned": false,
+      "join_date": "2025-07-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ernie/profile-image-normal/2025-07-17/8f6f51b6108d41f19169568f6f5ed4aa.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ernie/profile-image/2025-07-17/5261406547f94b6bbe690d480c0ca888.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "KNOWII",
+          "name": "Knowii",
+          "korean_name": "노이 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PM",
+        "name": "Product Management",
+        "korean_name": "프로덕트 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1997-04-28",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 14
+    },
+    {
+      "id": "d9f8bf88-465c-4e46-bbe6-961744fea29b",
+      "nickname": "tess",
+      "nickname_korean": "테스",
+      "real_name": "주민건",
+      "email": "tess@buzzni.com",
+      "phone": "010-7151-7940",
+      "gender": "M",
+      "occupation": "back-end engineer",
+      "occupation_korean": "백엔드 엔지니어",
+      "is_resigned": false,
+      "join_date": "2025-07-28T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tess/profile-image-normal/2025-08-12/c81d900373b94869af908cedf4f0e35a.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tess/profile-image/2025-08-12/9fb35b1602124d7a982d47a1c5edb682.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "AISF",
+          "name": "Shortform AI",
+          "korean_name": "숏폼 AI 스쿼드",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BE",
+        "name": "Back-end Engineering",
+        "korean_name": "백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1995-07-04",
+      "work_type": "전문연구요원",
+      "floor": 14,
+      "seat": 1
+    },
+    {
+      "id": "13c1e75d-cb20-4edb-9f97-599b2163ab3a",
+      "nickname": "mallory",
+      "nickname_korean": "맬러리",
+      "real_name": "안미애",
+      "email": "mallory@buzzni.com",
+      "phone": "010-3968-4209",
+      "gender": "F",
+      "occupation": "product manager",
+      "occupation_korean": "프로덕트 매니저",
+      "is_resigned": false,
+      "join_date": "2025-07-28T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/mallory/profile-image-normal/2025-08-27/0b0b5fb760544bb29afbca4498b8db06.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/mallory/profile-image/2025-08-12/79c3853ea9684507bc12fb1338903335.png",
+      "squads": [
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PM",
+        "name": "Product Management",
+        "korean_name": "프로덕트 매니지먼트",
+        "division": "MEMBER"
+      },
+      "birth_date": "1998-04-08",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 3
+    },
+    {
+      "id": "315c90d2-de55-438c-892c-66bcb388b9ef",
+      "nickname": "soo",
+      "nickname_korean": "수",
+      "real_name": "김형수",
+      "email": "soo@buzzni.com",
+      "phone": "010-2266-8515",
+      "gender": "M",
+      "occupation": "sales manager",
+      "occupation_korean": "세일즈 매니저",
+      "is_resigned": false,
+      "join_date": "2025-08-11T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/soo/profile-image-normal/2025-08-12/ee97978e8ceb4925a3a81e68af3e1e8d.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/soo/profile-image/2025-08-12/4f15cdc2a0d848589915789ccec1ec1f.png",
+      "squads": [
+        {
+          "initial": "BUSINESSAI",
+          "name": "Business AI",
+          "korean_name": "비즈니스 AI 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "APLUSAI",
+          "name": "APLUS AI",
+          "korean_name": "APLUS AI",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "SM",
+        "name": "Sales Manager",
+        "korean_name": "세일즈매니저",
+        "division": "MEMBER"
+      },
+      "birth_date": "1981-12-10",
+      "work_type": "정규",
+      "floor": 14,
+      "seat": 26
+    },
+    {
+      "id": "c8ef77f7-61b2-40d8-b086-9c7c70e3a0c6",
+      "nickname": "tetra",
+      "nickname_korean": "테트라",
+      "real_name": "유지수",
+      "email": "tetra@buzzni.com",
+      "phone": "010-8020-9753",
+      "gender": "M",
+      "occupation": "site reliability engineer",
+      "occupation_korean": "사이트 신뢰성 엔지니어",
+      "is_resigned": false,
+      "join_date": "2025-09-01T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tetra/profile-image-normal/2025-09-02/c015ec7f6f484660a348db912bf5cc80.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/tetra/profile-image/2025-09-02/7b05fa5197024945a5af791e5fb6b44c.png",
+      "squads": [
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "BE",
+        "name": "Back-end Engineering",
+        "korean_name": "백엔드 엔지니어링",
+        "division": "MEMBER"
+      },
+      "birth_date": "1999-07-18",
+      "work_type": "정규",
+      "floor": 12,
+      "seat": 17
+    },
+    {
+      "id": "943079f0-69e1-4667-8771-61ac004b876b",
+      "nickname": "ashe",
+      "nickname_korean": "애시",
+      "real_name": "김민정",
+      "email": "ashe@buzzni.com",
+      "phone": "010-9370-0329",
+      "gender": "F",
+      "occupation": "product designer",
+      "occupation_korean": "프로덕트 디자이너",
+      "is_resigned": false,
+      "join_date": "2025-09-22T00:00:00",
+      "image_normal": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ashe/profile-image-normal/2025-10-13/6781631e10ee47f5ae6998b8f371a396.png",
+      "image_small": "http://thum.buzzni.com/unsafe/filters:format(webp)/https://buzzni-biz-strategy.s3-ap-northeast-1.amazonaws.com/user/ashe/profile-image/2025-09-25/5f3c3a02b2044986975433ebe223f8da.png",
+      "squads": [
+        {
+          "initial": "STF",
+          "name": "Service Platform",
+          "korean_name": "서비스 플랫폼 스쿼드",
+          "division": "MEMBER"
+        },
+        {
+          "initial": "HSMOA",
+          "name": "Homeshopping Moa",
+          "korean_name": "홈쇼핑모아",
+          "division": "MEMBER"
+        }
+      ],
+      "chapters": {
+        "initial": "PD",
+        "name": "Product Design",
+        "korean_name": "프로덕트 디자인",
+        "division": "MEMBER"
+      },
+      "birth_date": "1996-04-20",
+      "work_type": "정규",
+      "floor": 11,
+      "seat": 6
+    }
+  ]
+}
