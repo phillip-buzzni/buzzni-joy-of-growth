@@ -8,7 +8,7 @@ export function getPrincipleImage(id) {
         'execution-over-perfection': 'execution-over-perfection.png',
         'move-with-agility': 'move-with-agility.png', 
         'ask-for-feedback': 'ask-for-feedback.png',
-        'learn-proactively': 'learn-proactively.png'
+        'act-proactively': 'act-proactively.png'
     };
     return `/images/principles/${imageMap[id] || 'customer-delight.png'}`;
 }

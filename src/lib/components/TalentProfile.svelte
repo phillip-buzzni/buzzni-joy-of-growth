@@ -7,7 +7,7 @@
   <div class="text-center mb-8">
     <h1 class="text-4xl font-bold text-gray-900 mb-4">버즈니 리더십 원칙</h1>
     <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-      우리가 추구하는 9가지 가치와 행동 원칙
+      우리가 추구하는 8가지 가치와 행동 원칙
     </p>
   </div>
 

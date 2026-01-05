@@ -2,6 +2,7 @@
   import { leadershipPrinciples } from '$lib/data/leadershipPrinciples.js';
   import { push } from 'svelte-spa-router';
 // Slide Components
+  import AxTransitionSlide from './presentation/AxTransitionSlide.svelte';
   import CoverSlide from './presentation/CoverSlide.svelte';
   import ManifestoSlide from './presentation/ManifestoSlide.svelte';
   import OverviewSlide from './presentation/OverviewSlide.svelte';
@@ -14,8 +15,8 @@
     push('/talent');
   }
 
-  // 슬라이드 구성: 커버(0), 선언문(1), 전체보기(2), 개별원칙(3~11), 적용예시(12)
-  const totalSlides = 4 + leadershipPrinciples.length; // 13 슬라이드
+  // 슬라이드 구성: 커버(0), 선언문(1), 전체보기(2), 개별원칙(3~11), 적용예시(12), AX전환(13)
+  const totalSlides = 5 + leadershipPrinciples.length; // 14 슬라이드 (기존 4 + 1 + principles)
 
   function nextSlide() {
     if (currentSlide < totalSlides - 1) {
@@ -125,11 +126,14 @@
       {:else if currentSlide === 2}
          <OverviewSlide {goToSlide} />
       
-      {:else if currentSlide < totalSlides - 1 && currentPrinciple}
+      {:else if currentSlide < totalSlides - 2 && currentPrinciple}
          <PrincipleDetailSlide {currentPrinciple} {currentSlide} />
 
-      {:else if currentSlide === totalSlides - 1}
+      {:else if currentSlide === totalSlides - 2}
          <UsageExamplesSlide />
+
+      {:else if currentSlide === totalSlides - 1}
+         <AxTransitionSlide />
       {/if}
     </div>
 

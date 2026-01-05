@@ -18,7 +18,7 @@
              </div>
              <h3 class="text-xl font-bold mb-3 text-white group-hover:text-blue-300 transition-colors">채용 (Recruitment)</h3>
              <p class="text-slate-400 text-sm leading-relaxed mb-3">
-                기술적 역량뿐만 아니라, 9가지 리더십 원칙에 부합하는지 깊이 있게 인터뷰합니다.
+                기술적 역량뿐만 아니라, 8가지 리더십 원칙에 부합하는지 깊이 있게 인터뷰합니다.
              </p>
              <ul class="space-y-2 text-slate-500 text-sm">
                 <li class="flex items-start gap-2">

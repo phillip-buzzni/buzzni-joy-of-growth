@@ -20,7 +20,7 @@
           </p>
        
           <p class="text-slate-300 leading-relaxed text-3xl text-center mb-4">
-              이 9가지 원칙은 우리가 함께 성장하기 위해 스스로에게 던지는 질문이자, <br />
+              이 8가지 원칙은 우리가 함께 성장하기 위해 스스로에게 던지는 질문이자, <br />
               서로에게 하는 약속입니다.
           </p>
        

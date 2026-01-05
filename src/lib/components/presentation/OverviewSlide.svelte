@@ -8,12 +8,12 @@
 <div class="max-w-7xl mx-auto w-full animate-fadeIn h-full flex flex-col justify-center">
     <div class="text-center mb-12">
          <span class="text-yellow-500 tracking-widest text-sm font-semibold uppercase mb-2 block">Overview</span>
-         <h2 class="text-4xl md:text-5xl font-bold text-white">9가지 리더십 원칙</h2>
+         <h2 class="text-4xl md:text-5xl font-bold text-white">8가지 리더십 원칙</h2>
     </div>
     
     <div class="flex flex-wrap justify-center gap-4">
       <!-- Center Circle Layout or Standard Grid -->
-       <div class="grid grid-cols-1 md:grid-cols-3 gap-6 w-full">
+       <div class="grid grid-cols-1 md:grid-cols-4 gap-6 w-full">
         {#each leadershipPrinciples as principle, i}
           <button
             onclick={() => goToSlide(i + 3)}
