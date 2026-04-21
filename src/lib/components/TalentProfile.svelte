@@ -31,7 +31,7 @@
 
       <p>
         이 원칙들은 <strong class="text-gray-900">채용, 평가, 보상</strong>을 포함한
-        모든 가치 판단의 기준이 될 것이다.
+        모든 버즈니 가치 판단의 기준이 되는 헌법이 될 것이다.
       </p>
 
       <p class="text-sm text-gray-400 text-right pt-4">
