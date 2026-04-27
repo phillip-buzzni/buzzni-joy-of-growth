@@ -28,7 +28,7 @@ export const leadershipPrinciples = [
     behaviors: [
       {
         level: "junior",
-        title: "고객의 문제를 이해하려 노력해볼까한다",
+        title: "고객의 문제를 이해하려 노력한다",
         description:
           "고객이 겪는 문제가 무엇인지 파악하고, 내 업무가 그 문제 해결에 어떻게 기여하는지 이해한다",
         examples: [
