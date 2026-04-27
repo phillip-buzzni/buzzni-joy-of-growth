@@ -117,5 +117,23 @@
                 </li>
              </ul>
         </div>
+
+        <!-- 7. AX 기술과 혁신 (Innovation) -->
+        <div class="group relative bg-white/[0.03] backdrop-blur-xl border border-white/10 p-6 rounded-3xl hover:bg-white/[0.06] transition-all duration-500 hover:-translate-y-2">
+             <div class="absolute inset-0 bg-gradient-to-b from-cyan-500/0 to-cyan-500/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-3xl"></div>
+             <div class="w-16 h-16 rounded-2xl bg-cyan-500/10 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform overflow-hidden p-2">
+                <img src={getPrincipleImage('act-proactively')} alt="Innovation" class="w-full h-full object-contain" />
+             </div>
+             <h3 class="text-xl font-bold mb-3 text-white group-hover:text-cyan-300 transition-colors">AX 기술과 혁신</h3>
+             <p class="text-slate-400 text-sm leading-relaxed mb-3">
+                AI 기술을 통해 일하는 방식을 혁신하고, 새로운 시대에 맞는 압도적인 생산성과 가치를 만들어냅니다.
+             </p>
+             <ul class="space-y-2 text-slate-500 text-sm">
+                <li class="flex items-start gap-2">
+                    <span class="text-cyan-500">•</span>
+                    <span>기술 중심의 업무 효율화 기준</span>
+                </li>
+             </ul>
+        </div>
     </div>
 </div>

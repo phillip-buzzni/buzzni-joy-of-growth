@@ -28,7 +28,7 @@ export const leadershipPrinciples = [
     behaviors: [
       {
         level: "junior",
-        title: "고객의 문제를 이해하려 노력한다",
+        title: "고객의 문제를 이해하려 노력해볼까한다",
         description:
           "고객이 겪는 문제가 무엇인지 파악하고, 내 업무가 그 문제 해결에 어떻게 기여하는지 이해한다",
         examples: [
@@ -401,7 +401,7 @@ GRIT(열정 + 끈기)으로 어려움을 돌파한다.`,
       "기존 방식을 버리고 더 나은 방법으로 바꾼 경험은?",
     ],
   },
-{
+  {
     id: "execution-over-perfection",
     name: "작게 시작하고 빠르게 배운다",
     nameEn: "Start Small, Learn Fast",
@@ -497,7 +497,7 @@ GRIT(열정 + 끈기)으로 어려움을 돌파한다.`,
       "MVP로 검증하고 개선한 결과는?",
     ],
   },
-  
+
   {
     id: "aim-higher",
     name: "경계를 뛰어넘어 탁월함을 추구한다",
@@ -597,7 +597,7 @@ GRIT(열정 + 끈기)으로 어려움을 돌파한다.`,
       "업계 표준을 넘어선 혁신적 시도를 한 적이 있나요?",
       "주변 사람들로부터 존경받은 결과물이 있나요?",
     ],
-  },  
+  },
   {
     id: "ask-for-feedback",
     name: "솔직하게 피드백을 주고받고 성장한다",
